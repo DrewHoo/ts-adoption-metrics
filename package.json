@@ -1,0 +1,14 @@
+{
+  "name": "ts-adoption-metrics",
+  "version": "1.0.0",
+  "description": "For analyzing TypeScript adoption across a repository",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DrewHoo",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.0.0"
+  }
+}
